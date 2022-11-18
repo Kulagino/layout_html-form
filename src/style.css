@@ -1,1 +1,40 @@
 /* styles go here */
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.info-feld {
+  display: block;
+  margin: 0 0 10px;
+}
+
+.info-feld-last {
+  margin: 0;
+}
+
+.registr-feld {
+  display: block;
+  margin: 0 0 10px;
+}
+
+.registr-feld-last {
+  margin: 0;
+}
+
+.about-you {
+  display: block;
+  margin: 0 0 10px;
+}
+
+.about-you-last {
+  margin: 0;
+}
+
+.add-info {
+  display: block;
+  margin: 0 0 10px;
+}
+
+.add-info-last {
+  margin: 0;
+}
