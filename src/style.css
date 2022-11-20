@@ -3,38 +3,22 @@
   margin-bottom: 20px;
 }
 
-.info-feld {
+.info-feld:not(:last-child) {
   display: block;
   margin: 0 0 10px;
 }
 
-.info-feld-last {
-  margin: 0;
-}
-
-.registr-feld {
+.registr-feld:not(:last-child) {
   display: block;
   margin: 0 0 10px;
 }
 
-.registr-feld-last {
-  margin: 0;
-}
-
-.about-you {
+.about-you:not(:last-child) {
   display: block;
   margin: 0 0 10px;
 }
 
-.about-you-last {
-  margin: 0;
-}
-
-.add-info {
+.add-info:not(:last-child) {
   display: block;
   margin: 0 0 10px;
-}
-
-.add-info-last {
-  margin: 0;
 }
