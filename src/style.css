@@ -3,11 +3,11 @@
   margin-bottom: 20px;
 }
 
-.info-feld:not(:last-child) {
+.formElement:not(:last-child) {
   display: block;
   margin: 0 0 10px;
 }
-
+/* 
 .registr-feld:not(:last-child) {
   display: block;
   margin: 0 0 10px;
@@ -21,4 +21,4 @@
 .add-info:not(:last-child) {
   display: block;
   margin: 0 0 10px;
-}
+} */
